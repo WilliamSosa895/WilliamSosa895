@@ -65,3 +65,17 @@ I am a Software Engineering student. Java, and Shell are the programming languag
 </a>
 
 
+<h2 >Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=WilliamSosa895&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/WilliamSosa895)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/WilliamSosa895)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamSosa895/WilliamSosa895/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+

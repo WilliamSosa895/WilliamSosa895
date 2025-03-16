@@ -74,7 +74,7 @@ I am a Software Engineering student. Java, and Shell are the programming languag
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamSosa895/WilliamSosa895/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 

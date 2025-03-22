@@ -18,7 +18,8 @@ I am a Software Engineering student. Java, and Shell are the programming languag
 - Outside tech, 📖 I love watching soccer, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="zs23004708@estudiantes.uv.mx">zs23004708@estudiantes.uv.mx</a>
 
-## My Skills Include
+<!-- My Skills Include -->
+## Technologies I'm Learning
 
 <h4> Languages </h4>
 <span> 

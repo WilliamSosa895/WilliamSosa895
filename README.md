@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Software Engineering student. Java, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Software Engineering student. Java is the programming language I'm good at. I love to learn and build something new, productive, innovative and creative.
 * **I'm interested in web design, desktop app development, machine learning, and data science.**
 - 🌱 I’m currently learning ...
   - Java

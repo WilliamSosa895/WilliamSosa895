@@ -8,10 +8,10 @@ I am a Software Engineering student. Java is the programming language I'm good a
 * **I'm interested in web design, desktop app development, machine learning, and data science.**
 - 🌱 I’m currently learning ...
   - Java
-  - React
-  - Spring
+  <!-- - React
+  - Spring-->
   - Python
-  - Java Script
+  <!--- Java Script-->
   - APIs
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>

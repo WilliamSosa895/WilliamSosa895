@@ -74,9 +74,5 @@ I am a Software Engineering student. Java is the programming language I'm good a
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
 
